@@ -454,9 +454,7 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
-#header6-b .mbr-section-title {
-  color: #28262b;
-}
-#header6-b .mbr-section-text {
-  color: #565656;
+#msg-box3-c .mbr-section-title,
+#msg-box3-c .lead {
+  color: #000;
 }
